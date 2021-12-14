@@ -2,7 +2,7 @@
 
 - ✔  Tecnólogo em Análise e Desenvolvimento de sistemas 
 - 🔭 Atualmente estudando e criando projetos Full-stack 
-- ✍ Estudando e pós-graudando em dev Java para Web
+- ✍ Estudando e pós-graduando em dev Java para Web
 - 📫 Contate-me no email: devthiagomartins@gmail.com 
 - 🎮 Adoro games
 
