@@ -1,10 +1,10 @@
 ### Olá! Sou o Thiago Martins
 
-- ✔  Tecnólogo em Análise e Desenvolvimento de sistemas 
+- ✔  Tecnólogo formado em Análise e Desenvolvimento de sistemas 
 - 🔭 Atualmente estudando e criando projetos Full-stack 
-- ✍ Estudando e pós-graduando em dev Java para Web
+- ✍ Estudando e pós-graduando em desenvolvimento Java para Web
 - 📫 Contate-me no email: devthiagomartins@gmail.com 
-- 🎮 Adoro games
+- 🎮 Adoro games!
 
 <div align="center">
   <a href="https://github.com/devthiagomartins">
@@ -30,6 +30,8 @@
   
   ##
   
+  ###  Meus links sociais
+
  <div align="center"> 
   <a href="https://www.youtube.com/channel/devthiagomartins" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devthiagomartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
