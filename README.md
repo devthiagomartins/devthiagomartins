@@ -39,7 +39,4 @@ Engenheiro de Software pós-graduado com forte experiência no desenvolvimento d
   <a href="mailto:devthiagomartins@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://portfolio-site-black.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
 </div>
