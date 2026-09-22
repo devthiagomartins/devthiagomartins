@@ -11,7 +11,7 @@ Engenheiro de Software pós-graduado com forte experiência no desenvolvimento d
 - 🎓 **Formação:** Pós-graduado em Engenharia de Software (PUC Minas) | Tecnólogo em Análise e Desenvolvimento de Sistemas (UNI-GOIÁS)
 - 💻 **Atuação:** Atualmente liderando a arquitetura e desenvolvimento de um SaaS de Inteligência Artificial Generativa
 - 🌐 **Especialidades:** Java (8+ / Spring / JSF), ReactJS, TypeScript, Arquitetura Cloud (GCP/AWS), Mensageria (Kafka/RabbitMQ) e Bancos de Dados
-- 🗣️ **Idiomas:** Português (Nativo) | Inglês Técnico/Intermediário (B2)[cite: 2]
+- 🗣️ **Idiomas:** Português (Nativo) | Inglês Técnico/Intermediário (B2)
 
 📍 **Portfolio:** [portfolio-site-black.vercel.app](https://portfolio-site-black.vercel.app/)
 
@@ -20,25 +20,16 @@ Engenheiro de Software pós-graduado com forte experiência no desenvolvimento d
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Frameworks:**
-`Java 8+` `Spring Boot / MVC` `JSF / Primefaces` `ReactJS` `TypeScript` `JavaScript` `Hibernate/JPA`[cite: 2]
+`Java 8+` `Spring Boot / MVC` `JSF / Primefaces` `ReactJS` `TypeScript` `JavaScript` `Hibernate/JPA`
 
 **Cloud & DevOps:**
-`GCP (Google Cloud Platform)` `AWS` `Docker` `Kubernetes` `N8N` `CI/CD`[cite: 2]
+`GCP (Google Cloud Platform)` `AWS` `Docker` `Kubernetes` `N8N` `CI/CD`
 
 **Bancos de Dados & Mensageria:**
-`PostgreSQL` `MySQL` `SQL Server` `Kafka` `RabbitMQ`[cite: 2]
+`PostgreSQL` `MySQL` `SQL Server` `Kafka` `RabbitMQ`
 
 **Boas Práticas & Ferramentas:**
-`Clean Code` `SOLID` `Resilience4j` `Swagger/OpenAPI` `JUnit` `Git/SVN`[cite: 2]
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devthiagomartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagomartins&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
-</div>
+`Clean Code` `SOLID` `Resilience4j` `Swagger/OpenAPI` `JUnit` `Git/SVN`
 
 ---
 
