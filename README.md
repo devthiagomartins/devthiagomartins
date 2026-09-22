@@ -2,7 +2,7 @@
 
 **Desenvolvedor Java Fullstack | Líder Técnico**
 
-Engenheiro de Software pós-graduado com forte experiência no desenvolvimento de sistemas web de grande porte, ecossistema Java, arquitetura de microsserviços e integração com soluções de Inteligência Artificial Generativa e Cloud Computing.
+Engenheiro de Software pós-graduado com forte experiência no desenvolvimento de sistemas web de grande porte, ecossistema Java, arquitetura de software e integração com soluções de Inteligência Artificial Generativa.
 
 ---
 
@@ -12,9 +12,6 @@ Engenheiro de Software pós-graduado com forte experiência no desenvolvimento d
 - 💻 **Atuação:** Atualmente liderando a arquitetura e desenvolvimento de um SaaS de Inteligência Artificial Generativa
 - 🌐 **Especialidades:** Java (8+ / Spring / JSF), ReactJS, TypeScript, Arquitetura Cloud (GCP/AWS), Mensageria (Kafka/RabbitMQ) e Bancos de Dados
 - 🗣️ **Idiomas:** Português (Nativo) | Inglês Técnico/Intermediário (B2)
-
-📍 **Portfolio:** [portfolio-site-black.vercel.app](https://portfolio-site-black.vercel.app/)
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
